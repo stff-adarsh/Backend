@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Basic application 2nd video",
+  "keywords": [
+    "Node",
+    "demo"
+  ],
+  "license": "ISC",
+  "author": "Adarsh Srivastava",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
